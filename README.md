@@ -3,7 +3,7 @@
 Nama : Navika Berlianda Rihadatul'aisya  
 NIU : 505243
 Sesi : pagi B3 
-Secret String : 83350f683e7313e0cd2bec2b2c3d21446a92ea88991d31effa66c5f639b0abf220250523093509
+Secret String :  83350f683e7313e0cd2bec2b2c3d21446a92ea88991d31effa66c5f639b0abf220250523093509
 
 ## Checklist Responsi
 
